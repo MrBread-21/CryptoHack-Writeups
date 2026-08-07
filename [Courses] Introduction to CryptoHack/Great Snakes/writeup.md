@@ -1,6 +1,6 @@
 # Great Snakes
 
-![GreatSnakes](challenge.jpg)
+![Great Snakes](challenge.jpg)
 
 ## Description
 

@@ -1,6 +1,6 @@
 # XOR
 
-![XOR-Starter](challenge.png)
+![XOR Starter](challenge.png)
 
 ## Description
 

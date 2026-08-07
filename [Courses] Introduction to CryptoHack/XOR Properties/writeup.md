@@ -1,6 +1,6 @@
 # XOR Properties
 
-![XOR-Properties](challenge.png)
+![XOR Properties](challenge.png)
 
 ## Description
 

@@ -1,6 +1,6 @@
 # You either know, XOR you don't
 
-![You-either-know](challenge.png)
+![You either know](challenge.png)
 
 ## Description
 

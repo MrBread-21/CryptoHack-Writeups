@@ -1,6 +1,6 @@
 # Favourite Byte
 
-![Favourite-Byte](challenge.png)
+![Favourite Byte](challenge.png)
 
 ## Description
 

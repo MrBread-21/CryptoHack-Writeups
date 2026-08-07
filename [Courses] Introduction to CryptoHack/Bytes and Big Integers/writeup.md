@@ -1,6 +1,6 @@
 # Bytes and Big Integers
 
-![Bytes-and-Big-Integers](challenge.png)
+![Bytes and Big Integers](challenge.png)
 
 ## Description
 
