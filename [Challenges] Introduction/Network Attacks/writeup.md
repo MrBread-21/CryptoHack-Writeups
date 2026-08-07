@@ -1,6 +1,6 @@
 # Pwntools Example
 
-![Network Attacks](challenge.jpg)
+![Network Attacks](challenge.png)
 
 ## Description
 
