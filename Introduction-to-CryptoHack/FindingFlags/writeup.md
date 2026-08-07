@@ -1,6 +1,6 @@
 # Finding Flags
 
-!(Challenge.png)
+![Finding Flags](Challenge.png)
 
 ## Description
 
