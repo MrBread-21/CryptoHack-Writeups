@@ -1,6 +1,6 @@
 # Hex
 
-![Hex](challenge.jpg)
+![Hex](challenge.png)
 
 ## Description
 
