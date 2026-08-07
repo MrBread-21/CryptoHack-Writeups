@@ -4,9 +4,10 @@ This repository contains my writeups and solution scripts for **every challenge*
 
 The goal is to document my learning journey in cryptography while providing clear explanations and reproducible Python solutions. Each challenge includes:
 
-- `README.md` – Challenge analysis and writeup
-- `challenge.jpg` – Challenge screenshot
-- `solve.py` – Solution script
+- 📝 `Writeup.md` - Challenge analysis and writeup
+- 🖼️ `challenge.jpg` - Challenge screenshot
+- 🐍 `solve.py` - Solution script
+- 📁 Challenge files (when provided)
 
 > ⚠️ These writeups may contain spoilers. If you're solving CryptoHack yourself, try the challenges before reading the solutions.
 Heheee Thanks for reading and goodluck >< 
