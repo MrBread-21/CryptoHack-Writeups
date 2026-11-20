@@ -62,5 +62,9 @@
   "egcd": {
     "name": "Extended GCD",
     "flag": "-8404"
+  },
+  "ma0": {
+    "name": "Modular Arithmetic 1",
+    "flag": "4"
   }
 }
