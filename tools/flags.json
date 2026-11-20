@@ -66,5 +66,9 @@
   "ma0": {
     "name": "Modular Arithmetic 1",
     "flag": "4"
+  },
+  "ma1": {
+    "name": "Modular Arithmetic 2",
+    "flag": "1"
   }
 }
