@@ -70,5 +70,9 @@
   "ma1": {
     "name": "Modular Arithmetic 2",
     "flag": "1"
+  },
+  "mdiv": {
+    "name": "Modular Inverting",
+    "flag": "9"
   }
 }
