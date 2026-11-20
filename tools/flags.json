@@ -58,5 +58,9 @@
   "gcd": {
     "name": "Greatest Common Divisor",
     "flag": "1512"
+  },
+  "egcd": {
+    "name": "Extended GCD",
+    "flag": "-8404"
   }
 }
