@@ -54,5 +54,9 @@
   "xorimg1": {
     "name": "Lemur XOR",
     "flag": "crypto{X0Rly_n0t!}"
+  },
+  "gcd": {
+    "name": "Greatest Common Divisor",
+    "flag": "1512"
   }
 }
