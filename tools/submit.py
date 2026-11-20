@@ -49,7 +49,7 @@ def login():
 def submit(s, cid, flag):
     r = s.post(f"{BASE}/api/submit/{cid}.json", data={"flag": flag, "_csrf_token": s.token})
     data = r.json()
-    ok = not data.get("code")
+    ok = not data.get("code") or "already solved" in data.get("message", "")
     print(f"[{'+' if ok else '-'}] {cid}: {data.get('message', 'Correct!')}")
     return ok
 

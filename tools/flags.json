@@ -1,1 +1,50 @@
-{}
+{
+  "enc1": {
+    "name": "ASCII",
+    "flag": "crypto{ASCII_pr1nt4bl3}"
+  },
+  "enc2": {
+    "name": "Hex",
+    "flag": "crypto{You_will_be_working_with_hex_strings_a_lot}"
+  },
+  "enc3": {
+    "name": "Base64",
+    "flag": "crypto/Base+64+Encoding+is+Web+Safe/"
+  },
+  "enc4": {
+    "name": "Bytes and Big Integers",
+    "flag": "crypto{3nc0d1n6_4ll_7h3_w4y_d0wn}"
+  },
+  "xor0": {
+    "name": "XOR Starter",
+    "flag": "crypto{aloha}"
+  },
+  "xor1": {
+    "name": "XOR Properties",
+    "flag": "crypto{x0r_i5_ass0c1at1v3}"
+  },
+  "xorkey0": {
+    "name": "Favourite byte",
+    "flag": "crypto{0x10_15_my_f4v0ur173_by7e}"
+  },
+  "xorkey1": {
+    "name": "You either know, XOR you don't",
+    "flag": "crypto{1f_y0u_Kn0w_En0uGH_y0u_Kn0w_1t_4ll}"
+  },
+  "fflags": {
+    "name": "Finding Flags",
+    "flag": "crypto{y0ur_f1rst_fl4g}"
+  },
+  "nc-intro": {
+    "name": "Great Snakes",
+    "flag": "crypto{z3n_0f_pyth0n}"
+  },
+  "nc-intro-2": {
+    "name": "Network Attacks",
+    "flag": "crypto{sh0pp1ng_f0r_fl4g5}"
+  },
+  "root0": {
+    "name": "Quadratic Residues",
+    "flag": "8"
+  }
+}
