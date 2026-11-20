@@ -50,5 +50,9 @@
   "enc_interactive": {
     "name": "Encoding Challenge",
     "flag": "crypto{3nc0d3_d3c0d3_3nc0d3}"
+  },
+  "xorimg1": {
+    "name": "Lemur XOR",
+    "flag": "crypto{X0Rly_n0t!}"
   }
 }
