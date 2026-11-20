@@ -46,5 +46,9 @@
   "root0": {
     "name": "Quadratic Residues",
     "flag": "8"
+  },
+  "enc_interactive": {
+    "name": "Encoding Challenge",
+    "flag": "crypto{3nc0d3_d3c0d3_3nc0d3}"
   }
 }
